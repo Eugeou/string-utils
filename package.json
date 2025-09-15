@@ -1,7 +1,7 @@
 {
   "name": "@eugeou/string-utils",
   "version": "1.0.0",
-  "description": "A collection of useful string utility functions",
+  "description": "A collection of useful string utility functions and data type conversion utilities",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -19,7 +19,12 @@
     "utils",
     "utility",
     "helper",
-    "typescript"
+    "typescript",
+    "conversion",
+    "data-type",
+    "array",
+    "number",
+    "boolean"
   ],
   "author": "Eugeou <quannhm.eugeous@gmail.com>",
   "license": "MIT",
