@@ -1,6 +1,6 @@
 # String Utils
 
-A collection of useful string utility functions and data type conversion utilities for TypeScript/JavaScript projects.
+A collection of useful string utility functions and data type conversion utilities for TypeScript/JavaScript projects. [Install here](https://www.npmjs.com/package/@eugeou/string-utils)
 
 ## Installation
 
